@@ -73,27 +73,6 @@ for i in [12]:#range(1,13):
     # plt.show()
 
 
-# from queue import Queue
-
-    
-# max_chat_size=10
-# prev_chat = Queue(maxsize = max_chat_size)
-
-# def history(prev_conv):
-#     if prev_chat.full():
-#         prev_chat.get()
-#     prev_chat.put(prev_conv)
-
-
-
-
-# num_items = prev_chat.qsize()
-# for i in range(num_items):
-#     item = prev_chat.get()
-#     #codel
-
-#     prev_chat.put(item)
-
 
     
 
